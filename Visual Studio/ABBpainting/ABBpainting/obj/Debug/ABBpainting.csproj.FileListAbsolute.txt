@@ -1,0 +1,36 @@
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe.config
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\ABBpainting.pdb
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csprojResolveAssemblyReference.cache
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Form1.resources
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Properties.Resources.resources
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csproj.GenerateResource.Cache
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.exe
+E:\WorkPlace\C#\ABBpainting\ABBpainting\obj\Debug\ABBpainting.pdb
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\ABB.Robotics.Controllers.PC.dll
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\RobotStudio.Services.RobApi.dll
+E:\WorkPlace\C#\ABBpainting\ABBpainting\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe.config
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.exe
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.pdb
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.pdb
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABB.Robotics.Controllers.PC.dll
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\RobotStudio.Services.RobApi.dll
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csprojResolveAssemblyReference.cache
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Form1.resources
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Properties.Resources.resources
+C:\Users\Ervin\Desktop\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csproj.GenerateResource.Cache
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe.config
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.exe
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\bin\Debug\ABBpainting.pdb
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Form1.resources
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.Properties.Resources.resources
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csproj.GenerateResource.cache
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csproj.CoreCompileInputs.cache
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.csproj.CopyComplete
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.exe
+F:\ABB robot - C# App\Visual Studio\ABBpainting\ABBpainting\obj\Debug\ABBpainting.pdb
